@@ -28,7 +28,7 @@ def jugar_otra_vez():
 
 def despedida():
     print('*' * 68)
-    print('* Gracias por jugar al ahorcado de codigopiton.com. ¡Hasta pronto! *')
+    print('* s por jugar al ahorcado de codigopiton.com. ¡Hasta pronto! *')
     print('*' * 68)
 
 
