@@ -1,3 +1,5 @@
 a = 12
 
-print(type(a))
+b = 45
+
+print(a * b)
