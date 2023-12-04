@@ -1,3 +1,4 @@
+b = 48
 a = 12
 
 print(type(a))
